@@ -1,0 +1,220 @@
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Muayene_Bilgi_Sistemi.exe.config
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Muayene_Bilgi_Sistemi.exe
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Muayene_Bilgi_Sistemi.pdb
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.AssemblyReference.cache
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.Properties.Resources.resources
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.GenerateResource.cache
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.exe
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.pdb
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.frmMuayeneEkrani.resources
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.frmReceteEkrani.resources
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Npgsql.dll
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Buffers.dll
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Memory.dll
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Text.Json.dll
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Threading.Channels.dll
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Npgsql.xml
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Buffers.xml
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Memory.xml
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Text.Json.xml
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Threading.Channels.xml
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.CopyComplete
+C:\Users\enesd\Desktop\Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.frmMuayeneKayitlari.resources
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Muayene_Bilgi_Sistemi.exe.config
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Muayene_Bilgi_Sistemi.exe
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Muayene_Bilgi_Sistemi.pdb
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Npgsql.dll
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Buffers.dll
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Memory.dll
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Text.Json.dll
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Threading.Channels.dll
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Npgsql.xml
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Buffers.xml
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Memory.xml
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Text.Json.xml
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Threading.Channels.xml
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.AssemblyReference.cache
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.frmReceteEkrani.resources
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.frmMuayeneKayitlari.resources
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.frmMuayeneEkrani.resources
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.Properties.Resources.resources
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.GenerateResource.cache
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.CopyComplete
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.exe
+C:\Users\enesd\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.pdb
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Muayene_Bilgi_Sistemi.exe.config
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Muayene_Bilgi_Sistemi.exe
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Muayene_Bilgi_Sistemi.pdb
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Npgsql.dll
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Threading.Channels.dll
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\Npgsql.xml
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Threading.Channels.xml
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.frmReceteEkrani.resources
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.frmMuayeneKayitlari.resources
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.frmMuayeneEkrani.resources
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.Properties.Resources.resources
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.CopyComplete
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.exe
+C:\Users\User\Desktop\210601703_MuhammetEnesDemirkol_FınalODEV\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.pdb
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Muayene_Bilgi_Sistemi.exe.config
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Muayene_Bilgi_Sistemi.exe
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Muayene_Bilgi_Sistemi.pdb
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Npgsql.dll
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Threading.Channels.dll
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Npgsql.xml
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Threading.Channels.xml
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.frmReceteEkrani.resources
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.frmMuayeneKayitlari.resources
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.frmMuayeneEkrani.resources
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.Properties.Resources.resources
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.CopyComplete
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.exe
+C:\Users\User\Desktop\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.pdb
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Muayene_Bilgi_Sistemi.exe.config
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Muayene_Bilgi_Sistemi.exe
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Muayene_Bilgi_Sistemi.pdb
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Npgsql.dll
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Buffers.dll
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Collections.Immutable.dll
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Memory.dll
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Numerics.Vectors.dll
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Text.Encodings.Web.dll
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Text.Json.dll
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Threading.Channels.dll
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.ValueTuple.dll
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\Npgsql.xml
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Buffers.xml
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Collections.Immutable.xml
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Memory.xml
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Numerics.Vectors.xml
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Text.Encodings.Web.xml
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Text.Json.xml
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Threading.Channels.xml
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\bin\Debug\System.ValueTuple.xml
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.AssemblyReference.cache
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.SuggestedBindingRedirects.cache
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.frmReceteEkrani.resources
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.frmMuayeneKayitlari.resources
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.frmMuayeneEkrani.resources
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.Properties.Resources.resources
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.GenerateResource.cache
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.CoreCompileInputs.cache
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.csproj.CopyComplete
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.exe
+D:\Drive Dosyalarım\Yazılım\Proje\Biten Projeler\(C# & SQL)Muayene Bilgi Sistemi\Muayene_Bilgi_Sistemi\obj\Debug\Muayene_Bilgi_Sistemi.pdb
